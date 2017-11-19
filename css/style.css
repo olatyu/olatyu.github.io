@@ -1,0 +1,58 @@
+body{
+	background-color: white;
+}
+
+header {
+	background: url("../img/4.jpg") no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+
+}
+.front-title:{
+	font-family: 'Merriweather', serif;
+}
+
+.title{
+	color: #141EB2;
+}
+.title-color{
+	color: #141EB2;
+}
+
+.margin-title{
+	 margin-top: 40vh;
+}
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}
+
+.img-width{
+	width: 100%;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+
+.my-font{
+	font-family: 'Barlow Semi Condensed';
+
+}
+.blue-html{
+	width: 40%;
+	background-color: blue;
+}
+.red-css{
+	idth: 15%;
+	background-color: red;
+}
+.width-frame{
+	width: 100%;
+}
